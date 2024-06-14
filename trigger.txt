@@ -1,1 +1,3 @@
-alpine:20240606 registry.cn-hangzhou.aliyuncs.com/huajuan6848/alpine:20240606
+huajuan6848/limo-54demo-ros-foxy:0.0.9-4 registry.cn-hangzhou.aliyuncs.com/huajuan6848/limo-54demo-ros-foxy:0.0.9-4
+huajuan6848/x3-54demo-ros-foxy:0.0.9-4-pi registry.cn-hangzhou.aliyuncs.com/huajuan6848/x3-54demo-ros-foxy:0.0.9-4-pi
+huajuan6848/x3-54demo-ros-foxy:0.0.9-4-jetson registry.cn-hangzhou.aliyuncs.com/huajuan6848/x3-54demo-ros-foxy:0.0.9-4-jetson
